@@ -6,3 +6,4 @@ urllib3==1.25.11
 jsonpointer==2.3
 diskcache==4.0.0
 pytz==2019.3
+pip-system-certs==4.0
